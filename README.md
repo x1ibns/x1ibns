@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @x1ibns
 - 👀 I’m interested in ethical hacking,web developement
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript 
+- 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me send a mail to joaovictors.dev@gmail.com 
 
 <!---
